@@ -1,7 +1,7 @@
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
 
-# Como utilizar a extensão Agenda!
+# Como utilizar a extensão Movidesk no BlipDesk!
 
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
