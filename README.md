@@ -82,7 +82,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  
   Clicando em buscar, caso o cliente tenha tickets, irá aparecer uma lista de tickets.
   
-  ![image](https://user-images.githubusercontent.com/34819624/219116583-651ce1f8-d812-4697-9934-e7660cb25bf5.png)
+  ![image](https://user-images.githubusercontent.com/34819624/219117775-ef65f7f8-f891-4110-9781-cc7252c1f88b.png)
+
 
   Ao cliente no ticket de sua escolha, vamos apresentar alguns detalhes do mesmo. Conforme tela abaixo:
   
