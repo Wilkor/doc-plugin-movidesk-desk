@@ -41,7 +41,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
   ![image](https://user-images.githubusercontent.com/34819624/219109884-2bd066e2-fb3a-4d57-a1b3-c019d90d5880.png)
 
-  Nessa tela, você poderá localizar o cliente pelo **E-mail** ou **Telefone** do cliente.
+  Nessa tela, você poderá localizar o cliente pelo **E-mail** ou **Telefone** do cliente, após digitar uma das informações, clique em buscar.
   
   ![image](https://user-images.githubusercontent.com/34819624/219109492-5a85f876-e15e-4c20-837d-ff05d822757e.png)
   
@@ -64,7 +64,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   ![image](https://user-images.githubusercontent.com/34819624/219112972-3646b7f6-985b-4fa0-b5e0-b2c8584eff3a.png)
 
 
-  Após clicar em **Criar Ticket**, vai ser gerado o codigo ou protocolo do atendimento no **Movidesk**. Conforme tela abaixo:
+  Após clicar em **Criar Ticket**, vai ser gerado o código ou protocolo do atendimento no **Movidesk**. Conforme tela abaixo:
  
  ![image](https://user-images.githubusercontent.com/34819624/219113509-3a0b4135-b9b2-4c15-8c7a-1d287b6bb9e9.png)
 
@@ -86,7 +86,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   Ao cliente no ticket de sua escolha, vamos apresentar alguns detalhes do mesmo. Conforme tela abaixo:
   
-  ![image](https://user-images.githubusercontent.com/34819624/219116758-a9d27ae5-88a3-4223-9ee3-ed11cd8b9c25.png)
+![image](https://user-images.githubusercontent.com/34819624/219117278-098f5b6b-4a22-4ba5-9f7b-38c09cca0b7c.png)
 
 
   Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
