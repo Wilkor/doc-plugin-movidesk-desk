@@ -89,6 +89,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
 ![image](https://user-images.githubusercontent.com/34819624/219117278-098f5b6b-4a22-4ba5-9f7b-38c09cca0b7c.png)
 
+  Quer ver como funciona? clique no link abaixo: 👇🏻
+  
+  https://youtu.be/w-vC0YMMD6w
 
   Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
  
