@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-movidesk-desk/assets/34819624/6728ef06-8591-436a-80f7-2c8aa79233ea)
 
 # Como utilizar a extensão Movidesk no BlipDesk!
 
